@@ -1,0 +1,48 @@
+ 
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+  
+
+
+body {
+    width: 70%;
+    margin: 0 auto;
+
+}
+
+
+.titulo {
+font-size: 190%;
+font-family: monospace;
+text-align: center;
+color: rgb(40, 35, 63);
+
+}
+
+.subtitulo {
+    font-size: 100%;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+.text{
+    font-size: 140%;
+    text-align: justify;
+}
+ img{
+    width: 420px;
+    height: 425px;
+    margin: 2,5%;
+ }
+ .titulo2{
+    font-size: 190%;
+font-family: monospace;
+text-align: center;
+color: rgb(23, 23, 24);
+
+ }
+ 
